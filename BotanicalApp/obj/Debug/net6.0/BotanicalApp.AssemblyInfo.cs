@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BotanicalApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b5350db118c7b0aecf9fd4b3ac2ceaa6dc5cfda")]
 [assembly: System.Reflection.AssemblyProductAttribute("BotanicalApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BotanicalApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

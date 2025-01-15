@@ -161,6 +161,10 @@
       "PackagePath": "staticwebassets\\client\\assets\\images\\ad2.jpg"
     },
     {
+      "Id": "C:\\Users\\HP\\Desktop\\BotanicalApp\\BotanicalApp\\wwwroot\\client\\assets\\images\\default.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\images\\default.jpg"
+    },
+    {
       "Id": "C:\\Users\\HP\\Desktop\\BotanicalApp\\BotanicalApp\\wwwroot\\client\\assets\\images\\hbdr.png",
       "PackagePath": "staticwebassets\\client\\assets\\images\\hbdr.png"
     },

@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\BotanicalApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3858E8-DDBC-48DC-A8E3-6C326D25D2CA}|BotanicalApp\\BotanicalApp.csproj|c:\\users\\hp\\desktop\\botanicalapp\\botanicalapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3858E8-DDBC-48DC-A8E3-6C326D25D2CA}|BotanicalApp\\BotanicalApp.csproj|solutionrelative:botanicalapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3858E8-DDBC-48DC-A8E3-6C326D25D2CA}|BotanicalApp\\BotanicalApp.csproj|c:\\users\\hp\\desktop\\botanicalapp\\botanicalapp\\models\\productimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3858E8-DDBC-48DC-A8E3-6C326D25D2CA}|BotanicalApp\\BotanicalApp.csproj|solutionrelative:botanicalapp\\models\\productimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3858E8-DDBC-48DC-A8E3-6C326D25D2CA}|BotanicalApp\\BotanicalApp.csproj|c:\\users\\hp\\desktop\\botanicalapp\\botanicalapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3858E8-DDBC-48DC-A8E3-6C326D25D2CA}|BotanicalApp\\BotanicalApp.csproj|solutionrelative:botanicalapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3858E8-DDBC-48DC-A8E3-6C326D25D2CA}|BotanicalApp\\BotanicalApp.csproj|c:\\users\\hp\\desktop\\botanicalapp\\botanicalapp\\viewmodels\\homeviewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3858E8-DDBC-48DC-A8E3-6C326D25D2CA}|BotanicalApp\\BotanicalApp.csproj|solutionrelative:botanicalapp\\viewmodels\\homeviewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3858E8-DDBC-48DC-A8E3-6C326D25D2CA}|BotanicalApp\\BotanicalApp.csproj|c:\\users\\hp\\desktop\\botanicalapp\\botanicalapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3858E8-DDBC-48DC-A8E3-6C326D25D2CA}|BotanicalApp\\BotanicalApp.csproj|solutionrelative:botanicalapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3858E8-DDBC-48DC-A8E3-6C326D25D2CA}|BotanicalApp\\BotanicalApp.csproj|c:\\users\\hp\\desktop\\botanicalapp\\botanicalapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3858E8-DDBC-48DC-A8E3-6C326D25D2CA}|BotanicalApp\\BotanicalApp.csproj|solutionrelative:botanicalapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +43,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\BotanicalApp\\BotanicalApp\\ViewModels\\HomeViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "BotanicalApp\\ViewModels\\HomeViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\BotanicalApp\\BotanicalApp\\ViewModels\\HomeViewModels\\HomeVM.cs",
+              "RelativeToolTip": "BotanicalApp\\ViewModels\\HomeViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:02:54.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\BotanicalApp\\BotanicalApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BotanicalApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\BotanicalApp\\BotanicalApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BotanicalApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:49:48.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\BotanicalApp\\BotanicalApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BotanicalApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\BotanicalApp\\BotanicalApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BotanicalApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAIEAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:28:41.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\BotanicalApp\\BotanicalApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BotanicalApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\BotanicalApp\\BotanicalApp\\Models\\Product.cs",
+              "RelativeToolTip": "BotanicalApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:39:38.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\BotanicalApp\\BotanicalApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BotanicalApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\BotanicalApp\\BotanicalApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BotanicalApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:16:52.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductImages.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\BotanicalApp\\BotanicalApp\\Models\\ProductImages.cs",
+              "RelativeDocumentMoniker": "BotanicalApp\\Models\\ProductImages.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\BotanicalApp\\BotanicalApp\\Models\\ProductImages.cs",
+              "RelativeToolTip": "BotanicalApp\\Models\\ProductImages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:36:47.07Z",
+              "EditorCaption": ""
             }
           ]
         }

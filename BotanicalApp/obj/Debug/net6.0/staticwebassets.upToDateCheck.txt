@@ -34,6 +34,7 @@ wwwroot\client\assets\fonts\icomoon.ttf
 wwwroot\client\assets\fonts\icomoon.woff
 wwwroot\client\assets\images\ad1.jpg
 wwwroot\client\assets\images\ad2.jpg
+wwwroot\client\assets\images\default.jpg
 wwwroot\client\assets\images\hbdr.png
 wwwroot\client\assets\images\HomeSlider-1.png
 wwwroot\client\assets\images\HomeSlider-2.png

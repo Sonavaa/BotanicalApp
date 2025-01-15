@@ -83,3 +83,4 @@ C:\Users\HP\Desktop\BotanicalApp\BotanicalApp\bin\Debug\net6.0\Microsoft.Identit
 C:\Users\HP\Desktop\BotanicalApp\BotanicalApp\bin\Debug\net6.0\System.Collections.Immutable.dll
 C:\Users\HP\Desktop\BotanicalApp\BotanicalApp\bin\Debug\net6.0\Humanizer.dll
 C:\Users\HP\Desktop\BotanicalApp\BotanicalApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\BotanicalApp\BotanicalApp\obj\Debug\net6.0\BotanicalApp.sourcelink.json
